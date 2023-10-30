@@ -1,4 +1,4 @@
-public class JavaaDoc {
+public class JavaDoc {
     /**
      *
      * @param number
